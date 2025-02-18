@@ -1,4 +1,4 @@
-
+import "./Pre.css";
 
 const Pre = (props) => {
   return <div id={props.load ? "preloader" : "preloader-none"}></div>;
