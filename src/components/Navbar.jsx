@@ -15,6 +15,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import "./Navbar.css";
 
 const NavBar = () => {
   const [expand, updateExpanded] = useState(false);
