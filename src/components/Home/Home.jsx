@@ -3,6 +3,7 @@ import homeLogo from "../../assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import "./Home.css";
 
 const Home = () => {
   return (
